@@ -13,9 +13,9 @@ the aim of this code is to generate a quick summary about specific measurement f
 
     $ pip install fpdf
 
-![](https://github.com/Mohamed-Nser-Said/auto_report/blob/main/data/scatter3.jpg)
+
 ![](https://github.com/Mohamed-Nser-Said/auto_report/blob/main/data/reportC.jpg)
 ![](https://github.com/Mohamed-Nser-Said/auto_report/blob/main/data/report1.jpg)
-![](https://github.com/Mohamed-Nser-Said/auto_report/blob/main/data/report2.jpg)
+
 
 ## for more information go to my redox flow source code
