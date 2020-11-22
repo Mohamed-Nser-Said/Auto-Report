@@ -13,6 +13,6 @@ the aim of this code is to generate a quick summary about specific measurement f
 
     $ pip install fpdf
 
-
+![](https://github.com/Mohamed-Nser-Said/auto_report/blob/main/scatter3.jpg?raw=true)
 
 ## for more information go to my redox flow source code
